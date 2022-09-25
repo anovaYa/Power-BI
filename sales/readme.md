@@ -1,10 +1,10 @@
-##File descriptions
+## File descriptions
 * sales_train.csv - the training set. Daily historical data from January 2013 to October 2015.
 * items.csv - supplemental information about the items/products.
 * item_categories.csv  - supplemental information about the items categories.
 * shops.csv- supplemental information about the shops.
 
-##Data fields
+## Data fields
 * ID - an Id that represents a (Shop, Item) tuple within the test set
 * shop_id - unique identifier of a shop
 * item_id - unique identifier of a product
